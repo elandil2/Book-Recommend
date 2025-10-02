@@ -1,15 +1,22 @@
 # 📚 Book Recommendation System
 
-A production-ready book recommendation engine using collaborative filtering and content-based filtering algorithms. Built with Python, Pandas, Scikit-learn, and Streamlit.
+Discover similar books using machine learning! This system uses collaborative filtering and content-based filtering to recommend books based on user preferences and book metadata.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
 
-> **Live Demo:** [https://your-app.streamlit.app](https://your-app.streamlit.app) *(Update after deployment)*
+## 🎯 Features
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
-![scikit-surprise](https://img.shields.io/badge/scikit--surprise-1.1.3-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+- **Collaborative Filtering**: Recommends books based on user behavior patterns
+- **Content-Based Filtering**: Recommends books by similar authors/publishers
+- **Interactive Web App**: Built with Streamlit
+- **271K Books**: Large dataset with 1.1M ratings
+
+## 🚀 Quick Start
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
 ---
 

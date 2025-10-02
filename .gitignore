@@ -34,8 +34,7 @@ book_rec_env/
 Thumbs.db
 desktop.ini
 
-# Data files (too large for GitHub)
-# Uncomment these if you want to exclude CSV files
+# Data files (keep only for deployment)
 # Books.csv
 # Ratings.csv
 # Users.csv
