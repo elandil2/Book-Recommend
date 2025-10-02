@@ -1,0 +1,16 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scikit-learn>=1.3.0
+
+# Recommendation System Libraries
+scikit-surprise>=1.1.3
+
+# Web Application
+streamlit>=1.28.0
+
+# Utilities
+joblib>=1.3.0
+scipy>=1.11.0
