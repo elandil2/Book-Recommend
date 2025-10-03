@@ -2,7 +2,7 @@
 
 Discover similar books using machine learning! This system uses collaborative filtering and content-based filtering to recommend books based on user preferences and book metadata.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://book-recommendar.streamlit.app/)
 
 ## 🎯 Features
 
